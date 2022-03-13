@@ -1,0 +1,13 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 12px 144px;
+}
+
+.cards p {
+   flex-grow: 1;
+  margin-left: 12px;
+  font-weight: 500;
+  font-size: 16px;
+  font-family: 'roboto', sans-serif;
+}
